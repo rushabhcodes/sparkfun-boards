@@ -200,7 +200,7 @@ export const MAX3232ESE_UMW = (props: ChipProps<typeof pinLabels>) => {
         objUrl:
           "https://modelcdn.tscircuit.com/easyeda_models/download?uuid=4032c2dd225248d78b434b8d8cc76e9d&pn=C2904738",
         rotationOffset: { x: 0, y: 0, z: 0 },
-        positionOffset: { x: 0, y: 0, z: 0.75 },
+        positionOffset: { x: 0, y: 0, z: 0 },
       }}
       {...props}
     />
